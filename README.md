@@ -16,4 +16,4 @@ This repository contains a React Native Expo mobile app with a simple UI linking
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/cReAtOR0009/MobileApp_Stage_0.git
